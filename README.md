@@ -1,29 +1,23 @@
-# LAB - 
+# LAB - 07
 
-## Project Name
+## API Server
 
-### Author: Student/Group Name
+### Author: Travis Skyles
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com/api-docs) (API servers)
-* JSDoc Comment Required for all modules and functions in all .js files
+* [submission PR]()
+* [travis]()
 
 ### Setup
-#### `.env` requirements (where applicable)
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your server app (where applicable)
-* e.g. `npm start`
+* `npm start`
+* Endpoint: /docs
+  * Returns JSdocs
   
 #### Tests
-* How do you run tests?
+* Unit Tests: `npm test`
+* Lint Tests: `npm run lint`
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML](assets/lab07.jpg)
