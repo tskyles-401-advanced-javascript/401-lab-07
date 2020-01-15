@@ -5,7 +5,7 @@
 ### Author: Travis Skyles
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/tskyles-401-advanced-javascript/401-lab-07/pull/1)
 * [travis]()
 
 ### Setup
